@@ -1,23 +1,26 @@
-## Expense Tracker
-This is a simple expense tracker application built with HTML, CSS, and JavaScript. It allows users to add and track their expenses in a table format, which displays the expense name, amount, and an option to delete each entry.
+## Expense Tracker 
+Expense Tracker is a simple web application that allows users to track their expenses. It is built using HTML, CSS, and JavaScript and features a table that displays the expense name, amount, and running balance.
 
 ## Features
-Add new expenses with a name and amount
-Delete expenses from the list
-Display a running balance of the expenses
+- Add new expenses with a name and amount
+- Delete expenses from the list
+- Display a running balance of the expenses
 
-## Technologies used
-HTML
-CSS
+## Technologies Used
+HTML <br>
+CSS  <br>
 JavaScript
 
-## How to use
-Clone the repository or download the ZIP file
-Open index.html in your web browser
-To add an expense, fill in the name and amount fields in the "Add New Transaction" form and click the "Add Transaction" button
-To delete an expense, click the "Delete" button next to the entry in the table
-The total balance will update automatically with each addition or deletion of an expense
+## Installation
+To run Expense Tracker on your machine, follow these steps:
 
-## Screenshots
-![alt text](https://github.com/fari03/Expense-Tracker/blob/main/1.jpg)
+1. Clone the repository using the command git clone https://github.com/your-username/expense-tracker.git.
+2. Navigate to the cloned directory using cd expense-tracker.
+3. Open the index.html file in your web browser.
+
+## Usage
+- To add a new expense, fill in the name and amount fields in the "Add New Transaction" form and click the "Add Transaction" button.
+- To delete an expense, click the "Delete" button next to the entry in the table.
+- The total balance will update automatically with each addition or deletion of an expense.
+
 
