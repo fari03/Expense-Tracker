@@ -19,4 +19,7 @@ To delete an expense, click the "Delete" button next to the entry in the table
 The total balance will update automatically with each addition or deletion of an expense
 
 ## Screenshots
+![Expense Tracker](1.jpg)
+![Expense Tracker](2.jpg)
+![Expense Tracker](3.jpg)
 
